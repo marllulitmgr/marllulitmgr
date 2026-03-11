@@ -87,6 +87,20 @@ Informe Final:
 
 - [📊 Reporte de  Bugs_Test Cases_Seguridad de Acceso -v 3.0 (Visualizar)]( https://docs.google.com/spreadsheets/d/1630M7dsGebKILdVDq83E4orepqUkayKJ/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
 
+## 🥒 Casos de Prueba en Gherkin (BDD)
+
+He implementado el uso de Gherkin para estandarizar la comunicación entre los equipos de negocio y desarrollo, facilitando la comprensión de los escenarios de prueba.
+
+- Sintaxis BDD: Redacción de escenarios bajo la estructura Given/When/Then (Dado que / Cuando / Entonces) para asegurar que los requerimientos sean testeables.
+
+- Escenarios Críticos: Documentación de flujos principales como la función "Recordarme" (HBQL-5) y la gestión de transferencias con validación de saldos.
+  
+- Mantenibilidad: Estructura de archivos .feature organizada por módulos para facilitar la futura automatización de pruebas.
+
+>📄 Documentación Técnica:
+
+> [!NOTE]
+> Aquí puedes ver los casos de prueba en Gherkin (Visualizar)]( https://drive.google.com/file/d/1HMN_HYzV0M3HgKeZFEOlr2E8WBG0ikCl/view?usp=drive_link)
 
 ## 🤝 Hablemos
 
@@ -110,4 +124,4 @@ Informe Final:
 ------
 
 
-__Check out my GitHub repository:__
+
