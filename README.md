@@ -1,12 +1,10 @@
+
+
 <h1 align="center">Hola 👋, Yo soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Marllulit González </a></h1>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/6f/aa/c4/6faac4f7e749529fe02b1ed596e03c17.gif" />
 
@@ -61,7 +59,7 @@ Informe Final:
 
 [📄 Informe de Gestión de Calidad_Home Banking v3.0 Visualizar)]( https://drive.google.com/file/d/1tCYV4HdfncwD_8V8ewYWiBMSpZlQ5GQQ/view?usp=drive_link)
 
-> Módulo de transferencia:
+> **Módulo de transferencia:**
 
 - [📊 Plantilla de Test Cases_Gestión de Transferencia -v 3.0
  (Visualizar)]( https://docs.google.com/spreadsheets/d/1tGhsVWkW5JHyfCYHHf9RkhE3Lrk861xM/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
@@ -69,7 +67,7 @@ Informe Final:
 - [📊 Reporte de  Bugs_Test Cases_Gestión de Transferencia -v 3.0
  (Visualizar)]( https://docs.google.com/spreadsheets/d/1_y2ClW2RG72TLBQoAyXYiOIm0iXPd7Ep/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
 
-> Módulo de Seguridad de Acceso:
+> **Módulo de Seguridad de Acceso:**
 
 -  [📊 Plantilla de Test Cases_Seguridad de Acceso-v 3.0 - copia
  (Visualizar)]( https://docs.google.com/spreadsheets/d/1oGbK3cj9DOELNhNCvmKvQejX2-_P7qGo/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
@@ -86,7 +84,7 @@ He implementado el uso de Gherkin para estandarizar la comunicación entre los e
   
 - Mantenibilidad: Estructura de archivos .feature organizada por módulos para facilitar la futura automatización de pruebas.
 
->📄 Documentación Técnica:
+>📄 **Documentación Técnica:**
 
 > [!NOTE]
 > Aquí puedes ver los casos de prueba en Gherkin (Visualizar)]( https://drive.google.com/file/d/1HMN_HYzV0M3HgKeZFEOlr2E8WBG0ikCl/view?usp=drive_link)
@@ -96,7 +94,7 @@ He implementado el uso de Gherkin para estandarizar la comunicación entre los e
 Como parte de mi especialización técnica como QA, he completado una formación intensiva en MySQL. Esta habilidad es fundamental para mis pruebas de tester,
 ya que me permite ir más allá de la interfaz de usuario (UI) y verificar la integridad de los datos en el sistema.
 
-> ¿Cómo aplico SQL en mis pruebas de QA?
+# ¿Cómo aplico SQL en mis pruebas de QA?
 
 - Validación de Backend: Verificación directa de que las transacciones y registros realizados en el frontend se persistan correctamente en las tablas de la base de datos.
   
@@ -123,14 +121,15 @@ ya que me permite ir más allá de la interfaz de usuario (UI) y verificar la in
   <a href="marllulit.gonzalez@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 
- ----
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-------
-
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
