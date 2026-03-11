@@ -88,7 +88,26 @@ Informe Final:
 - [📊 Reporte de  Bugs_Test Cases_Seguridad de Acceso -v 3.0 (Visualizar)]( https://docs.google.com/spreadsheets/d/1630M7dsGebKILdVDq83E4orepqUkayKJ/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
 
 
+## 🤝 Hablemos
 
+¡Siempre estoy abierto a conectar con equipos que buscan elevar su estándar de calidad!
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marllulit-qa-tester"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="marllulit.gonzalez@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+
+ 
+ ----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
 
 
 __Check out my GitHub repository:__
