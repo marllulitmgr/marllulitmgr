@@ -52,5 +52,43 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
   <img width="908" height="244" alt="image" src="https://github.com/user-attachments/assets/958584f5-f861-4a4e-a609-7a827a917603" />
 
+## 📂 Proyecto Destacado: Home Banking v3.0
+
+Implementando un control de calidad centralizado en Jira.
+
+### 📈 Highlights de Gestión:
+
+- Estrategia de Trazabilidad: Implementé un sistema donde cada Historia de Usuario (ej. Función Recordarme) está vinculada bidireccionalmente a sus Casos de Prueba y Defectos (ej. BUG-006).
+
+- Reportabilidad Senior: Gestión de defectos críticos (UI, Persistencia de datos, Lógica de sesión) con estándares profesionales de reproducción.
+
+- Documentación: Planificación de pruebas integral enfocada en accesibilidad móvil y seguridad.
+
+### 📄 Documentación Técnica:
+
+> [!NOTE]
+> Aquí puedes consultar el detalle completo de los artefactos generados durante el proyecto:
+Informe Final:
+
+[📄 Informe de Gestión de Calidad_Home Banking v3.0 Visualizar)]( https://drive.google.com/file/d/1tCYV4HdfncwD_8V8ewYWiBMSpZlQ5GQQ/view?usp=drive_link)
+
+> Módulo de transferencia:
+
+- [📊 Plantilla de Test Cases_Gestión de Transferencia -v 3.0
+ (Visualizar)]( https://docs.google.com/spreadsheets/d/1tGhsVWkW5JHyfCYHHf9RkhE3Lrk861xM/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+- [📊 Reporte de  Bugs_Test Cases_Gestión de Transferencia -v 3.0
+ (Visualizar)]( https://docs.google.com/spreadsheets/d/1_y2ClW2RG72TLBQoAyXYiOIm0iXPd7Ep/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+> Módulo de Seguridad de Acceso:
+
+-  [📊 Plantilla de Test Cases_Seguridad de Acceso-v 3.0 - copia
+ (Visualizar)]( https://docs.google.com/spreadsheets/d/1oGbK3cj9DOELNhNCvmKvQejX2-_P7qGo/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+- [📊 Reporte de  Bugs_Test Cases_Seguridad de Acceso -v 3.0 (Visualizar)]( https://docs.google.com/spreadsheets/d/1630M7dsGebKILdVDq83E4orepqUkayKJ/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+
+
+
 
 __Check out my GitHub repository:__
