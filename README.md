@@ -14,17 +14,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 - ## 🚀 QA Tester Manual | Especialista en Gestión de Calidad y Trazabilidad
 
     Apasionado por la calidad de software y la mejora continua. Mi enfoque no es solo encontrar errores, sino gestionar el ciclo de vida completo de QA,
@@ -102,6 +91,27 @@ He implementado el uso de Gherkin para estandarizar la comunicación entre los e
 > [!NOTE]
 > Aquí puedes ver los casos de prueba en Gherkin (Visualizar)]( https://drive.google.com/file/d/1HMN_HYzV0M3HgKeZFEOlr2E8WBG0ikCl/view?usp=drive_link)
 
+## 🗄️ Gestión de Bases de Datos con MySQL
+
+Como parte de mi especialización técnica como QA, he completado una formación intensiva en MySQL. Esta habilidad es fundamental para mis pruebas de tester,
+ya que me permite ir más allá de la interfaz de usuario (UI) y verificar la integridad de los datos en el sistema.
+
+> ¿Cómo aplico SQL en mis pruebas de QA?
+
+- Validación de Backend: Verificación directa de que las transacciones y registros realizados en el frontend se persistan correctamente en las tablas de la base de datos.
+  
+- Consultas Complejas (Joins): Capacidad para cruzar información entre múltiples tablas (como JOIN, INNER JOIN) para asegurar que la lógica de negocio y las relaciones entre entidades sean correctas.
+  
+- Pruebas de Integridad: Ejecución de sentencias SELECT, INSERT, UPDATE y DELETE para validar comportamientos bajo diferentes escenarios de datos.
+  
+- Detección de Defectos: Capacidad para aislar errores de lógica de servidor comparando resultados de la UI vs. resultados reales en base de datos.
+  
+- He estructurado mi aprendizaje en módulos prácticos que incluyen desde la creación de esquemas, manipulación de datos, hasta consultas avanzadas y normalización.
+
+> [!NOTE]
+> [📂 Ver mi repositorio de ejercicios de SQL]( https://github.com/marllulitmgr/marllulitmgr/tree/main/MySql)
+
+
 ## 🤝 Hablemos
 
 ¡Siempre estoy abierto a conectar con equipos que buscan elevar su estándar de calidad!
@@ -113,7 +123,6 @@ He implementado el uso de Gherkin para estandarizar la comunicación entre los e
   <a href="marllulit.gonzalez@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 
- 
  ----
 
 <p align="center">
