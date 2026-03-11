@@ -85,22 +85,67 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 ## Documentación técnica & Evidencias
+
 Todos los PDFs, hojas y capturas referenciadas aquí están disponibles en la sección “Documentación técnica” del repo o en enlaces compartidos en Drive. Cada artefacto incluye una breve descripción de su contenido.
 
----
+> [!NOTE]
+> 
+> Aquí puedes consultar el detalle completo de los artefactos generados durante el proyecto:
+Informe Final:
+
+[📄 Informe de Gestión de Calidad_Home Banking v3.0 Visualizar)]( https://drive.google.com/file/d/1tCYV4HdfncwD_8V8ewYWiBMSpZlQ5GQQ/view?usp=drive_link)
+
+> **Módulo de transferencia:**
+
+- [📊 Plantilla de Test Cases_Gestión de Transferencia -v 3.0
+ (Visualizar)]( https://docs.google.com/spreadsheets/d/1tGhsVWkW5JHyfCYHHf9RkhE3Lrk861xM/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+- [📊 Reporte de  Bugs_Test Cases_Gestión de Transferencia -v 3.0
+ (Visualizar)]( https://docs.google.com/spreadsheets/d/1_y2ClW2RG72TLBQoAyXYiOIm0iXPd7Ep/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+> **Módulo de Seguridad de Acceso:**
+
+-  [📊 Plantilla de Test Cases_Seguridad de Acceso-v 3.0 - copia
+ (Visualizar)]( https://docs.google.com/spreadsheets/d/1oGbK3cj9DOELNhNCvmKvQejX2-_P7qGo/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+- [📊 Reporte de  Bugs_Test Cases_Seguridad de Acceso -v 3.0 (Visualizar)]( https://docs.google.com/spreadsheets/d/1630M7dsGebKILdVDq83E4orepqUkayKJ/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## Cómo reproducir / ver evidencia
-1. Revisar los archivos en la carpeta `assets/screenshots` para capturas.  
-2. Abrir las hojas de cálculo y PDFs indicados en la sección de artefactos.  
-3. Para ejecutar queries de ejemplo: ver carpeta `MySql/` y ejecutar los scripts en tu entorno.
 
----
+1. Abrir las hojas de cálculo y PDFs indicados en la sección de artefactos.
+   
+3. Revisar el archivo (https://drive.google.com/file/d/1BwLE8rzgUuiP91Xij-ZVu7RJcusmb0sb/view?usp=drive_link) en la pestaña evidencias.
+   
+5. Para ejecutar queries de ejemplo: ver carpeta `MySql/` y ejecutar los scripts en tu entorno.
 
-## Contacto
-- ✉️ [tu-email@dominio.com]  
-- 🔗 [https://www.linkedin.com/in/tu-perfil]
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
----
+## 🤝 Hablemos
+
+¡Siempre estoy abierto a conectar con equipos que buscan elevar su estándar de calidad!
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marllulit-qa-tester"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="marllulit.gonzalez@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 
 _Disponible para roles de QA Manual, Analista de QA y posiciones relacionadas en entornos ágiles._
 
