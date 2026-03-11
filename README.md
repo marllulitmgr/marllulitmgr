@@ -1,135 +1,111 @@
+<h1 align="center">Hola 👋, Yo soy Marllulit González — QA Tester Manual / Especialista en Gestión de Calidad </a></h1>
 
+**QA Tester Manual** con experiencia en diseño y ejecución de planes de prueba, trazabilidad de requisitos y reporte de defectos. Enfocada en garantizar calidad end-to-end para aplicaciones críticas (web & mobile).  
 
-<h1 align="center">Hola 👋, Yo soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Marllulit González </a></h1>
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/6f/aa/c4/6faac4f7e749529fe02b1ed596e03c17.gif" />
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de Mí***
-
-
-
-- ## 🚀 QA Tester Manual | Especialista en Gestión de Calidad y Trazabilidad
-
-    Apasionado por la calidad de software y la mejora continua. Mi enfoque no es solo encontrar errores, sino gestionar el ciclo de vida completo de QA,
-    asegurando que cada requerimiento de negocio esté alineado con la calidad técnica y la experiencia del usuario.
-
-
-- ## 🛠 Skills Técnicas
-
-- Gestión & Ágil: Jira (Expertise en Sprints, Backlog, Kanban, Trazabilidad).
-
-  <img width="1812" height="962" alt="image" src="https://github.com/user-attachments/assets/ddf2cdb0-3d5d-4ed8-9977-f86bd9dbe1c1" />
-
-- Calidad: Diseño de Test Plans, ejecución de casos de prueba, reporte de defectos (Bugs).
-
-  <img width="1888" height="772" alt="image" src="https://github.com/user-attachments/assets/464db35e-d1bc-4879-afc6-8587bddc8529" />
-
-  <img width="501" height="656" alt="image" src="https://github.com/user-attachments/assets/9156c4b9-4539-4354-80bc-e4c9c277aa74" />
-
-
-- Análisis Técnico: Uso de DevTools (F12), validación de LocalStorage, análisis de diseño responsivo.
-
-  <img width="921" height="426" alt="image" src="https://github.com/user-attachments/assets/31d08c50-f11e-4681-9b3c-6a195bdf67af" />
-
-- Trazabilidad: Experiencia en vincular requisitos (User Stories) con defectos para auditoría de calidad.
-
-  <img width="908" height="244" alt="image" src="https://github.com/user-attachments/assets/958584f5-f861-4a4e-a609-7a827a917603" />
-
-## 📂 Proyecto Destacado: Home Banking v3.0
-
-Implementando un control de calidad centralizado en Jira.
-
-### 📈 Highlights de Gestión:
-
-- Estrategia de Trazabilidad: Implementé un sistema donde cada Historia de Usuario (ej. Función Recordarme) está vinculada bidireccionalmente a sus Casos de Prueba y Defectos (ej. BUG-006).
-
-- Reportabilidad Senior: Gestión de defectos críticos (UI, Persistencia de datos, Lógica de sesión) con estándares profesionales de reproducción.
-
-- Documentación: Planificación de pruebas integral enfocada en accesibilidad móvil y seguridad.
-
-### 📄 Documentación Técnica:
-
-> [!NOTE]
-> Aquí puedes consultar el detalle completo de los artefactos generados durante el proyecto:
-Informe Final:
-
-[📄 Informe de Gestión de Calidad_Home Banking v3.0 Visualizar)]( https://drive.google.com/file/d/1tCYV4HdfncwD_8V8ewYWiBMSpZlQ5GQQ/view?usp=drive_link)
-
-> **Módulo de transferencia:**
-
-- [📊 Plantilla de Test Cases_Gestión de Transferencia -v 3.0
- (Visualizar)]( https://docs.google.com/spreadsheets/d/1tGhsVWkW5JHyfCYHHf9RkhE3Lrk861xM/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
-
-- [📊 Reporte de  Bugs_Test Cases_Gestión de Transferencia -v 3.0
- (Visualizar)]( https://docs.google.com/spreadsheets/d/1_y2ClW2RG72TLBQoAyXYiOIm0iXPd7Ep/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
-
-> **Módulo de Seguridad de Acceso:**
-
--  [📊 Plantilla de Test Cases_Seguridad de Acceso-v 3.0 - copia
- (Visualizar)]( https://docs.google.com/spreadsheets/d/1oGbK3cj9DOELNhNCvmKvQejX2-_P7qGo/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
-
-- [📊 Reporte de  Bugs_Test Cases_Seguridad de Acceso -v 3.0 (Visualizar)]( https://docs.google.com/spreadsheets/d/1630M7dsGebKILdVDq83E4orepqUkayKJ/edit?usp=drive_link&ouid=100720576198436564846&rtpof=true&sd=true)
-
-## 🥒 Casos de Prueba en Gherkin (BDD)
-
-He implementado el uso de Gherkin para estandarizar la comunicación entre los equipos de negocio y desarrollo, facilitando la comprensión de los escenarios de prueba.
-
-- Sintaxis BDD: Redacción de escenarios bajo la estructura Given/When/Then (Dado que / Cuando / Entonces) para asegurar que los requerimientos sean testeables.
-
-- Escenarios Críticos: Documentación de flujos principales como la función "Recordarme" (HBQL-5) y la gestión de transferencias con validación de saldos.
-  
-- Mantenibilidad: Estructura de archivos .feature organizada por módulos para facilitar la futura automatización de pruebas.
-
->📄 **Documentación Técnica:**
-
-> [!NOTE]
-> Aquí puedes ver los casos de prueba en Gherkin (Visualizar)]( https://drive.google.com/file/d/1HMN_HYzV0M3HgKeZFEOlr2E8WBG0ikCl/view?usp=drive_link)
-
-## 🗄️ Gestión de Bases de Datos con MySQL
-
-Como parte de mi especialización técnica como QA, he completado una formación intensiva en MySQL. Esta habilidad es fundamental para mis pruebas de tester,
-ya que me permite ir más allá de la interfaz de usuario (UI) y verificar la integridad de los datos en el sistema.
-
-# ¿Cómo aplico SQL en mis pruebas de QA?
-
-- Validación de Backend: Verificación directa de que las transacciones y registros realizados en el frontend se persistan correctamente en las tablas de la base de datos.
-  
-- Consultas Complejas (Joins): Capacidad para cruzar información entre múltiples tablas (como JOIN, INNER JOIN) para asegurar que la lógica de negocio y las relaciones entre entidades sean correctas.
-  
-- Pruebas de Integridad: Ejecución de sentencias SELECT, INSERT, UPDATE y DELETE para validar comportamientos bajo diferentes escenarios de datos.
-  
-- Detección de Defectos: Capacidad para aislar errores de lógica de servidor comparando resultados de la UI vs. resultados reales en base de datos.
-  
-- He estructurado mi aprendizaje en módulos prácticos que incluyen desde la creación de esquemas, manipulación de datos, hasta consultas avanzadas y normalización.
-
-> [!NOTE]
-> [📂 Ver mi repositorio de ejercicios de SQL]( https://github.com/marllulitmgr/marllulitmgr/tree/main/MySql)
-
-
-## 🤝 Hablemos
-
-¡Siempre estoy abierto a conectar con equipos que buscan elevar su estándar de calidad!
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marllulit-qa-tester"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="marllulit.gonzalez@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+📍 [Caracas] · ✉️ [marllulit.gonzalez@gmail.com] · 🔗 [https://www.linkedin.com/in/marllulit-qa-tester] 
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
+## Resumen profesional
+
+Analista QA con más de 9 años de experiencia garantizando la calidad en sistemas críticos y software empresarial. Experta en el ciclo de vida de pruebas (STLC), diseño de matrices de trazabilidad (RTM) y validación funcional con un enfoque centrado en la experiencia del usuario final. Perfil "Silver" con alta capacidad analítica, combinando una trayectoria sólida con actualización técnica reciente en Automatización (Python), APIs (Postman/Swagger) y metodologías Ágiles.
+
+**Resultados destacados a nivel profesional**
+
+-	Lideré la ejecución de pruebas manuales y funcionales en ciclos SDLC/STLC para productos de software contable/administrativo.
+-	Diseñé y mantuve casos de prueba y criterios de aceptación, asegurando una cobertura del 100% mediante matrices de trazabilidad (RTM).
+  
+> Logros: 
+
+-	Reduje en un 35% el tiempo de resolución de incidencias técnicas mediante la optimización de los procesos de reporte y el flujo de comunicación con desarrollo.
+-	Ejecuté validaciones de integridad de datos mediante consultas SQL para asegurar la consistencia en entornos de producción.
+
+## En mi nueva actualización tome un proyecto de práctica de una página Web para aplicar mis conocimientos 
+
+- La página es  *Home Banking v3.0*, estableci trazabilidad entre historias, casos de prueba y defectos.
+  
+- Si fuera estado en funcionalidad fuera logrado reducir el tiempo de reproducción de bugs en un 35% mediante estandarización de plantillas y checklist de validación.
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+## Habilidades técnicas
+
+- **Gestión & herramientas:** Jira, Confluence.
+   
+- **QA Manual:** Test plan, test cases, reporte y priorización de defectos.
+  
+- **BDD:** Gherkin (.feature) — Given/When/Then.
+  
+- **Bases de datos:** MySQL — validación de persistencia, queries de verificación.
+  
+- **Otras:** DevTools, validación responsive.
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+## Proyectos seleccionados
+
+### Home Banking v3.0 — *Proyecto destacado*
+
+**Rol:** QA Lead / Tester Manual  
+
+**Resumen:** Implementación de control de calidad centralizado en Jira, trazabilidad completa y planes de prueba para módulos críticos (transferencias, seguridad de acceso).  
+
+**Artefactos clave (enlaces compartidos):**  
+
+- Informe final (PDF) — descripción del alcance, métricas y hallazgos.
+  
+- Plantilla Test Cases — módulo Transferencias (Google Sheets).
+   
+- Reporte de Bugs — ejemplo con BUG-006 (Google Sheets).
+
+### Repositorio MySql — scripts y ejemplos
+
+> [!NOTE]
+
+> [📂 Ver mi repositorio de ejercicios de SQL; contiene consultas SQL usadas para validar persistencia en pruebas de integración.]( https://github.com/marllulitmgr/marllulitmgr/tree/main/MySql)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+
+
+## Ejemplo de caso de prueba (breve)
+**ID:** TC-HB-001  
+**Título:** Registrar transferencia interna válida  
+**Precondición:** Usuario autenticado con saldo suficiente  
+**Pasos:**  
+1. Ir a Transferencias → Nueva transferencia.  
+2. Completar datos y confirmar.  
+**Resultado esperado:** Transferencia registrada y registro persistido en DB.
+
+---
+
+## Documentación técnica & Evidencias
+Todos los PDFs, hojas y capturas referenciadas aquí están disponibles en la sección “Documentación técnica” del repo o en enlaces compartidos en Drive. Cada artefacto incluye una breve descripción de su contenido.
+
+---
+
+## Cómo reproducir / ver evidencia
+1. Revisar los archivos en la carpeta `assets/screenshots` para capturas.  
+2. Abrir las hojas de cálculo y PDFs indicados en la sección de artefactos.  
+3. Para ejecutar queries de ejemplo: ver carpeta `MySql/` y ejecutar los scripts en tu entorno.
+
+---
+
+## Contacto
+- ✉️ [tu-email@dominio.com]  
+- 🔗 [https://www.linkedin.com/in/tu-perfil]
+
+---
+
+_Disponible para roles de QA Manual, Analista de QA y posiciones relacionadas en entornos ágiles._
+
+
 
 
