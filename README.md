@@ -73,18 +73,16 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
+## Ejemplo de caso de prueba 
 
 
-## Ejemplo de caso de prueba (breve)
-**ID:** TC-HB-001  
-**Título:** Registrar transferencia interna válida  
-**Precondición:** Usuario autenticado con saldo suficiente  
-**Pasos:**  
-1. Ir a Transferencias → Nueva transferencia.  
-2. Completar datos y confirmar.  
-**Resultado esperado:** Transferencia registrada y registro persistido en DB.
+> [!NOTE]
 
----
+> [📂 Ver caso de prueba](https://drive.google.com/file/d/1BwLE8rzgUuiP91Xij-ZVu7RJcusmb0sb/view?usp=drive_link)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 
 ## Documentación técnica & Evidencias
 Todos los PDFs, hojas y capturas referenciadas aquí están disponibles en la sección “Documentación técnica” del repo o en enlaces compartidos en Drive. Cada artefacto incluye una breve descripción de su contenido.
