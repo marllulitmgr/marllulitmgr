@@ -29,7 +29,7 @@ Analista QA con más de 9 años de experiencia garantizando la calidad en sistem
 - Si fuera estado en funcionalidad fuera logrado reducir el tiempo de reproducción de bugs en un 35% mediante estandarización de plantillas y checklist de validación.
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories) 
 
 
 ## Habilidades técnicas
