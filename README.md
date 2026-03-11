@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋, Yo soy Marllulit González — QA Tester Manual / Especialista en Gestión de Calidad </a></h1>
 
-**QA Tester Manual** con experiencia en diseño y ejecución de planes de prueba, trazabilidad de requisitos y reporte de defectos. Enfocada en garantizar calidad end-to-end para aplicaciones críticas (web & mobile).  
+<img align="right" width="200px" alt="Unicorn" src="https://i.pinimg.com/originals/6f/aa/c4/6faac4f7e749529fe02b1ed596e03c17.gif" />
+
+**QA Tester Manual** con experiencia en diseño y ejecución de planes de prueba, trazabilidad de requisitos y reporte de defectos.
+Enfocada en garantizar calidad end-to-end para aplicaciones críticas (web & mobile). 
 
 📍 [Caracas] · ✉️ [marllulit.gonzalez@gmail.com] · 🔗 [https://www.linkedin.com/in/marllulit-qa-tester] 
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
-
-## Resumen profesional
+--
+# Resumen profesional
 
 Analista QA con más de 9 años de experiencia garantizando la calidad en sistemas críticos y software empresarial. Experta en el ciclo de vida de pruebas (STLC), diseño de matrices de trazabilidad (RTM) y validación funcional con un enfoque centrado en la experiencia del usuario final. Perfil "Silver" con alta capacidad analítica, combinando una trayectoria sólida con actualización técnica reciente en Automatización (Python), APIs (Postman/Swagger) y metodologías Ágiles.
 
