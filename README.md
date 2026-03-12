@@ -82,12 +82,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
    
 - Reporte de Bugs — ejemplo con BUG-006 (Google Sheets).
 
-### Repositorio MySql — scripts y ejemplos
-
-> [!NOTE]
-
-> [📂 Ver mi repositorio de ejercicios de SQL; contiene consultas SQL usadas para validar persistencia en pruebas de integración.]( https://github.com/marllulitmgr/marllulitmgr/tree/main/MySql)
-
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
@@ -143,7 +137,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-
 ## 🥒 Casos de Prueba en Gherkin (BDD)
 
 He implementado el uso de Gherkin para estandarizar la comunicación entre los equipos de negocio y desarrollo, facilitando la comprensión de los escenarios de prueba.
@@ -158,21 +151,45 @@ He implementado el uso de Gherkin para estandarizar la comunicación entre los e
 
 > [!NOTE]
 > Aquí puedes ver los casos de prueba en Gherkin (Visualizar)](https://github.com/marllulitmgr/marllulitmgr/tree/main/Casos%20de%20Prueba%20en%20Gherkin)
-> 
->
-> 
+ 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+## 🗄️ Gestión de Bases de Datos con MySQL
 
+Como parte de mi especialización técnica como QA, he completado una formación intensiva en MySQL. Esta habilidad es fundamental para mis pruebas de tester,
+ya que me permite ir más allá de la interfaz de usuario (UI) y verificar la integridad de los datos en el sistema.
 
+## ¿Cómo aplico SQL en mis pruebas de QA?
 
+- Validación de Backend: Verificación directa de que las transacciones y registros realizados en el frontend se persistan correctamente en las tablas de la base de datos.
+  
+- Consultas Complejas (Joins): Capacidad para cruzar información entre múltiples tablas (como JOIN, INNER JOIN) para asegurar que la lógica de negocio y las relaciones entre entidades sean correctas.
+  
+- Pruebas de Integridad: Ejecución de sentencias SELECT, INSERT, UPDATE y DELETE para validar comportamientos bajo diferentes escenarios de datos.
+  
+- Detección de Defectos: Capacidad para aislar errores de lógica de servidor comparando resultados de la UI vs. resultados reales en base de datos.
+  
+- He estructurado mi aprendizaje en módulos prácticos que incluyen desde la creación de esquemas, manipulación de datos, hasta consultas avanzadas y normalización.
 
+> [!NOTE]
+> [📂 Ver mi repositorio de ejercicios de SQL](https://github.com/marllulitmgr/marllulitmgr/tree/main/MySql)
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+## 🗄️ Pruebas en Apis de práctica como proyecto personal
+
+### Ejemplos de caso de prueba
+
+### Documentación tecnica y evidencia
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## 🤝 Hablemos
 
 ¡Siempre estoy abierto a conectar con equipos que buscan elevar su estándar de calidad!
-
 
 
 <p align="center">
@@ -192,7 +209,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-_Disponible para roles de QA Manual, Analista de QA y posiciones relacionadas en entornos ágiles._
+           Disponible para roles de QA Manual, Analista de QA y posiciones relacionadas en entornos ágiles.
 
 
 
