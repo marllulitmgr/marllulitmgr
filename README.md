@@ -143,6 +143,29 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+
+## 🥒 Casos de Prueba en Gherkin (BDD)
+
+He implementado el uso de Gherkin para estandarizar la comunicación entre los equipos de negocio y desarrollo, facilitando la comprensión de los escenarios de prueba.
+
+- Sintaxis BDD: Redacción de escenarios bajo la estructura Given/When/Then (Dado que / Cuando / Entonces) para asegurar que los requerimientos sean testeables.
+
+- Escenarios Críticos: Documentación de flujos principales como la función "Recordarme" (HBQL-5) y la gestión de transferencias con validación de saldos.
+  
+- Mantenibilidad: Estructura de archivos .feature organizada por módulos para facilitar la futura automatización de pruebas.
+
+>📄 **Documentación Técnica:**
+
+> [!NOTE]
+> Aquí puedes ver los casos de prueba en Gherkin (Visualizar)]()
+
+
+
+
+
+
+
+
 ## 🤝 Hablemos
 
 ¡Siempre estoy abierto a conectar con equipos que buscan elevar su estándar de calidad!
