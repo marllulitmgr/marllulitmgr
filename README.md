@@ -1,3 +1,18 @@
+<img width="1339" height="330" alt="image" src="https://github.com/user-attachments/assets/dd76caee-ee70-4e44-89fb-b153acce3408" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hola 👋, Yo soy Marllulit González — QA Tester Manual / Especialista en Gestión de Calidad </a></h1>
 
 <img align="right" width="200px" alt="Unicorn" src="https://i.pinimg.com/originals/6f/aa/c4/6faac4f7e749529fe02b1ed596e03c17.gif" />
@@ -10,16 +25,20 @@ Enfocada en garantizar calidad end-to-end para aplicaciones críticas (web & mob
 --
 # Resumen profesional
 
-Analista QA con más de 9 años de experiencia garantizando la calidad en sistemas críticos y software empresarial. Experta en el ciclo de vida de pruebas (STLC), diseño de matrices de trazabilidad (RTM) y validación funcional con un enfoque centrado en la experiencia del usuario final. Perfil "Silver" con alta capacidad analítica, combinando una trayectoria sólida con actualización técnica reciente en Automatización (Python), APIs (Postman/Swagger) y metodologías Ágiles.
+Analista QA con más de 9 años de experiencia garantizando la calidad en sistemas críticos y software empresarial. Experta en el ciclo de vida de pruebas (STLC),
+diseño de matrices de trazabilidad (RTM) y validación funcional con un enfoque centrado en la experiencia del usuario final. Perfil "Silver" con alta capacidad analítica, 
+combinando una trayectoria sólida con actualización técnica reciente en Automatización (Python), APIs (Postman/Swagger) y metodologías Ágiles.
 
 **Resultados destacados a nivel profesional**
 
 -	Lideré la ejecución de pruebas manuales y funcionales en ciclos SDLC/STLC para productos de software contable/administrativo.
+  
 -	Diseñé y mantuve casos de prueba y criterios de aceptación, asegurando una cobertura del 100% mediante matrices de trazabilidad (RTM).
   
 > Logros: 
 
 -	Reduje en un 35% el tiempo de resolución de incidencias técnicas mediante la optimización de los procesos de reporte y el flujo de comunicación con desarrollo.
+  
 -	Ejecuté validaciones de integridad de datos mediante consultas SQL para asegurar la consistencia en entornos de producción.
 
 ## En mi nueva actualización tome un proyecto de práctica de una página Web para aplicar mis conocimientos 
