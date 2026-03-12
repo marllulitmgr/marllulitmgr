@@ -157,7 +157,9 @@ He implementado el uso de Gherkin para estandarizar la comunicación entre los e
 >📄 **Documentación Técnica:**
 
 > [!NOTE]
-> Aquí puedes ver los casos de prueba en Gherkin (Visualizar)]()
+> Aquí puedes ver los casos de prueba en Gherkin (Visualizar)](Casos de Prueba en Gherkin/Casos de Prueba.md)
+>
+> 
 
 
 
